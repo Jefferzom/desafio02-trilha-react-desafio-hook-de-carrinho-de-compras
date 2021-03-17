@@ -13,7 +13,7 @@ Tecnologia usada ao decorrer da aplicação.
 # :fire: Bisu da Aplicação :fire:
 Aplicação com o intuito de prover o desenvolvimento de um "Hook" ( separar toda a lógica dentro de um component ).
 
-<span>O desafio era arrumar cada parte do mini-ecommerce: <strong>Home | Cart | Header </strong> e por fim listar, selecionar e remover.</span>
+O desafio era arrumar cada parte do mini-ecommerce: <strong>Home | Cart | Header </strong> e por fim listar, selecionar e remover.
 
 ### Home
 <li>Antes de tudo, Listar <strong>.map</strong> os <strong>Cart's</strong> vindo de uma API Fake.</li>
@@ -27,7 +27,7 @@ Aplicação com o intuito de prover o desenvolvimento de um "Hook" ( separar tod
 
 
 ### Header
-<li>Adicionar a contagem de itens dentro do carrinho vindo do array cart do hook <strong>useCart</strong></li>
+Adicionar a contagem de itens dentro do carrinho vindo do array cart do hook <strong>useCart</strong>
 
 ### Complementar 
 <li>Setar no <strong>localStorage</strong> como key = '@RocketShoes:cart' os itens adicionados e buscar com <strong>getItem</strong> </li> 
