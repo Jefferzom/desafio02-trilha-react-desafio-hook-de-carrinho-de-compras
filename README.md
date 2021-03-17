@@ -41,4 +41,4 @@ yarn
 Start the project | Iniciar projeto
 yarn dev
 ## 💻 Project
-Projeto criado para fins acadêmicos, atividade complementar ministrado pela @Rocketseat
+Projeto criado para fins acadêmicos, atividade complementar ministrado pela <a href="https://rocketseat.com.br/">@Rocketseat</a>
